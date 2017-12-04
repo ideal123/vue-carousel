@@ -1,6 +1,6 @@
 # vue-carousel
 
-> A Vue.js project
+> A lightweight carousel component for vue2
 
 ## Build Setup
 
